@@ -5,7 +5,9 @@ This project is a sub project of [Guitar-Editor](https://github.com/Haixiang6123
 
 ## Screenshots
 
-![Lyrics](./screenshots/Lyrics.png)
+![LyricsEmbed](./screenshots/LyricsEmbed.png)
+
+![LyricsNotEmbed](./screenshots/LyricsNotEmbed.png)
 
 ## How to run
 

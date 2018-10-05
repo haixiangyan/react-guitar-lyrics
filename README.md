@@ -35,7 +35,7 @@ $ npm start
 
 ![Chords 2](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/Chords2.png)
 
-![Chords 3](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/Chords3.png
+![Chords 3](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/Chords3.png)
 
 ## Advanced
 

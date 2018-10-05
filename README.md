@@ -5,11 +5,11 @@ This project is a sub project of [Guitar-Editor](https://github.com/Haixiang6123
 
 ## Screenshots
 
-![LyricsEmbed](./screenshots/LyricsEmbed.png)
+![LyricsEmbed](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/LyricsEmbed.png)
 
 or
 
-![LyricsNotEmbed](./screenshots/LyricsNotEmbed.png)
+![LyricsNotEmbed](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/LyricsNotEmbed.png)
 
 ## How to run
 
@@ -31,11 +31,11 @@ $ npm start
 
 ## All Chords
 
-![Chords 1](./screenshots/Chords1.png)
+![Chords 1](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/Chords1.png)
 
-![Chords 2](./screenshots/Chords2.png)
+![Chords 2](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/Chords2.png)
 
-![Chords 3](./screenshots/Chords3.png)
+![Chords 3](https://github.com/Haixiang6123/react-guitar-lyrics/blob/master/screenshots/Chords3.png
 
 ## Advanced
 
